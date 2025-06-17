@@ -1,2 +1,2 @@
 # C_Primer_Plus
-exercise codes in 《C Primer Plus》
+The exercise codes in 《C Primer Plus》
